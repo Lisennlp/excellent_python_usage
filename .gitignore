@@ -124,7 +124,7 @@ tensorflow_code
 # Models
 models
 sftp-config*.json
-*.ipynb
+# *.ipynb
 *.pk
 .idea/
 data/
